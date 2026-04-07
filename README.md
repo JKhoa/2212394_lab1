@@ -24,3 +24,6 @@ Mo trinh duyet tai `http://localhost:3000`.
 - Chinh sua `src/app/page.tsx` voi thong tin ca nhan mau.
 - Cap nhat metadata trong `src/app/layout.tsx`.
 - Thuc hanh Git workflow (commit, branch, merge, conflict).
+
+## Ghi chu
+Du an duoc tao trong buoi thuc hanh 1.
