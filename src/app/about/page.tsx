@@ -1,4 +1,3 @@
-@
 export default function AboutPage() {
   return (
     <main className="mx-auto min-h-screen max-w-2xl p-8">
@@ -9,4 +8,3 @@ export default function AboutPage() {
     </main>
   );
 }
-@
