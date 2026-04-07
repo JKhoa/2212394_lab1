@@ -4,10 +4,10 @@ export default function Home() {
       <section className="w-full max-w-2xl rounded-2xl bg-white p-8 shadow-lg">
         <h1 className="mb-4 text-center text-4xl font-bold text-slate-900">Xin chao!</h1>
         <p className="mb-2 text-lg text-slate-700">
-          Ho va ten: <strong>Sinh vien CTK46</strong>
+          Ho va ten: <strong>JKhoa</strong>
         </p>
         <p className="mb-2 text-lg text-slate-700">
-          MSSV: <strong>21xxxxx</strong>
+          MSSV: <strong>Chua cap nhat</strong>
         </p>
         <p className="mb-2 text-lg text-slate-700">
           Lop: <strong>CTK46</strong>
